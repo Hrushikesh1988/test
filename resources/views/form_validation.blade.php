@@ -15,7 +15,8 @@
     </head>
     <body>
         <div class="container">
-            <form>
+            <form method="post">
+                @csrf
                 <h2>Form Validation</h2>
                 <div class="row">
                     <div class="col-md-6">
@@ -24,6 +25,7 @@
                             <input type="text" class="form-control" placeholder="" id="full_name" name="full_name">
                         </div>
                     </div>
+                    {!! $errors->first('full_name', '<p class="validation-error">:message</p>') !!}
                 </div>
 
                 <div class="row">
@@ -33,6 +35,7 @@
                             <input type="text" class="form-control" placeholder="" id="phone_number" name="phone_number">
                         </div>
                     </div>
+                    {!! $errors->first('phone_number', '<p class="validation-error">:message</p>') !!}
                 </div>
                 
                 <div class="row">
@@ -42,6 +45,7 @@
                             <input type="email" class="form-control" id="email" placeholder="">
                         </div>
                     </div>
+                    {!! $errors->first('email', '<p class="validation-error">:message</p>') !!}
                 </div>
                 <div class="row">
                     <div class="col-md-6">
@@ -50,6 +54,7 @@
                             <input type="date" class="form-control" id="dob" placeholder="" name="dob">
                         </div>
                     </div>
+                    {!! $errors->first('dob', '<p class="validation-error">:message</p>') !!}
                 </div>
                 <button type="submit" class="btn btn-primary">Submit</button>
             </form>

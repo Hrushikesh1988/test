@@ -18,4 +18,5 @@ Route::get('/', function () {
 });
 
 Route::get('/property-details', 'Property_details@index'); 
-Route::get('/form-validation', 'Property_details@form_validation'); 
+Route::get('/form-validation', 'Property_details@form_validation')->name('form.validation');
+Route::post('/form-validation', 'Property_details@submit');

@@ -30,177 +30,36 @@
                         <th>Updated Timestamp</th>
                     </tr>
                 </thead>
-                <tbody>
-                    <tr>
-                        <td>1</td>
-                        <td>15</td>
-                        <td>277 S 79th St Unit 707, West Des Moines, IA 50266</td>
-                        <td>18</td>
-                        <td>Federal Lead Paint Disclosure</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>2</td>
-                        <td>12</td>
-                        <td>500 Dunmire St, Frederick, CO 80530</td>
-                        <td>20</td>
-                        <td>Share via Twitter</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>3</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>19</td>
-                        <td>Share via Facebook</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>4</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>17</td>
-                        <td>Houzeo Relationship Agreement & Disclosures</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>5</td>	
-                        <td>16</td>
-                        <td>1249 W Cademon Ct,Lincoln,NE 68523</td>
-                        <td>35</td>
-                        <td>NC - Residential Property and Owners Association Disclosure</td>
-                        <td>2018-12-14 21:20:56</td>
-                    </tr>
-                    <tr>
-                        <td>6</td>
-                        <td>15</td>
-                        <td>277 S 79th St Unit 707, West Des Moines, IA 50266</td>
-                        <td>18</td>
-                        <td>Federal Lead Paint Disclosure</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>7</td>
-                        <td>12</td>
-                        <td>500 Dunmire St, Frederick, CO 80530</td>
-                        <td>20</td>
-                        <td>Share via Twitter</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>8</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>19</td>
-                        <td>Share via Facebook</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>9</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>17</td>
-                        <td>Houzeo Relationship Agreement & Disclosures</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>10</td>	
-                        <td>16</td>
-                        <td>1249 W Cademon Ct,Lincoln,NE 68523</td>
-                        <td>35</td>
-                        <td>NC - Residential Property and Owners Association Disclosure</td>
-                        <td>2018-12-14 21:20:56</td>
-                    </tr>
-                    <tr>
-                        <td>11</td>
-                        <td>15</td>
-                        <td>277 S 79th St Unit 707, West Des Moines, IA 50266</td>
-                        <td>18</td>
-                        <td>Federal Lead Paint Disclosure</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>12</td>
-                        <td>12</td>
-                        <td>500 Dunmire St, Frederick, CO 80530</td>
-                        <td>20</td>
-                        <td>Share via Twitter</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>13</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>19</td>
-                        <td>Share via Facebook</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>14</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>17</td>
-                        <td>Houzeo Relationship Agreement & Disclosures</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>15</td>	
-                        <td>16</td>
-                        <td>1249 W Cademon Ct,Lincoln,NE 68523</td>
-                        <td>35</td>
-                        <td>NC - Residential Property and Owners Association Disclosure</td>
-                        <td>2018-12-14 21:20:56</td>
-                    </tr>
-                    <tr>
-                        <td>16</td>
-                        <td>15</td>
-                        <td>277 S 79th St Unit 707, West Des Moines, IA 50266</td>
-                        <td>18</td>
-                        <td>Federal Lead Paint Disclosure</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>17</td>
-                        <td>12</td>
-                        <td>500 Dunmire St, Frederick, CO 80530</td>
-                        <td>20</td>
-                        <td>Share via Twitter</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>18</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>19</td>
-                        <td>Share via Facebook</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>19</td>	
-                        <td>12</td>
-                        <td>500 Dunmire St,Frederick,CO 80530</td>
-                        <td>17</td>
-                        <td>Houzeo Relationship Agreement & Disclosures</td>
-                        <td>2021-03-12 12:27:43</td>
-                    </tr>
-                    <tr>
-                        <td>20</td>	
-                        <td>16</td>
-                        <td>1249 W Cademon Ct,Lincoln,NE 68523</td>
-                        <td>35</td>
-                        <td>NC - Residential Property and Owners Association Disclosure</td>
-                        <td>2018-12-14 21:20:56</td>
-                    </tr>
+                <tbody class="result">
+
                 </tbody>
             </table>
         </div>
         <script>
             $(document).ready(function() {
-                var table = $('#list_view').DataTable( {
-                    "lengthChange": false,
-                    "pageLength": 5,
-                    "responsive": true
-                });
+
+                function getdata(){
+                    $.get( "/api/getProperty", function( data ) {
+                        var htmlrows = '';
+                        $.each(data, function( index, value ) {
+                            htmlrows = htmlrows + '<tr><td>'+index+'</td>'+
+                                    '<td>'+value.house_id+'</td>'+
+                                    '<td>'+ value.street+','+ value.city+','+ value.state+','+ value.country+','+ value.zip+'</td>'+
+                                    '<td>'+value.id+'</td>'+
+                                    '<td>'+value.title+'</td>'+
+                                    '<td>'+value.updated_at+'</td> </tr>';
+                        });
+                        $( ".result" ).html( htmlrows );
+
+                        var table = $('#list_view').DataTable( {
+                            "lengthChange": false,
+                            "pageLength": 5,
+                            "responsive": true
+                        });
+                        alert( "Load was performed." );
+                    });
+                }
+                getdata();
             } );
         </script>
     </body>
